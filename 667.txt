@@ -1,6 +1,3 @@
-123
-456
-zyh
 nc 112 test2 [a,b,c] 2
 nc 110 test2 [a,b,c] 0
 nc 111 test2 [a,b,c] 1
