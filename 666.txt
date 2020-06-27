@@ -1,0 +1,18 @@
+123
+456
+zyh
+nc 112 test2 [a,b,c] 2
+nc 110 test2 [a,b,c] 0
+nc 111 test2 [a,b,c] 1
+
+
+nc 112 test2 [a,b,c] 2
+nc 110 test1 [a,b,c] 0
+nc 111 test2 [a,b,c] 1
+QUIT
+
+nc 110 test1 [a,b,c1] 0
+QUIT
+
+测试页面
+shanyuaa is here
